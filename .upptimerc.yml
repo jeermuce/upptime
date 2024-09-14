@@ -5,12 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: gallery
     url: https://gallery-khaki-eight.vercel.app/
-  - name: csyc server
-    url: https://csyc.onrender.com/
+  - name: GET to csyc server
+    url: https://csyc.onrender.com/services?page=1&size=2
+    method: GET
   - name: csyc client
     url: https://front-end-18oj-6dwvt7mg2-csyc.vercel.app/
-  - name: dogs server
-    url: https://pi-dogs-ocx3.onrender.com/
+  - name: GET to dogs server
+    url: https://pi-dogs-ocx3.onrender.com/dogs
+    method: GET
   - name: dogs client
     url: https://dogs-taupe-iota.vercel.app/
   - name: Test Broken Site
