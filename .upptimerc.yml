@@ -2,6 +2,8 @@
 owner: jeermuce # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+# .github/workflows/graphs.yml needs a space in line 26
+
 sites:
   - name: gallery
     url: https://gallery-khaki-eight.vercel.app/
