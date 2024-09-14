@@ -22,18 +22,20 @@
     "url": "https://csyc.onrender.com/services?page=1&size=2",
     "icon": "https://icons.duckduckgo.com/ip3/csyc.onrender.com.ico",
     "slug": "get-to-csyc-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 261,
     "timeDay": 261,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-14": 2
+    }
   },
   {
     "name": "csyc client",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pi-dogs-ocx3.onrender.com.ico",
     "slug": "get-to-dogs-server",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "92.72%",
+    "uptimeDay": "92.72%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "92.72%",
+    "uptimeYear": "92.72%",
     "time": 254,
     "timeDay": 254,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 24
     }
   },
   {
