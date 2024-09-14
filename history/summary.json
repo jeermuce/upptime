@@ -58,19 +58,19 @@
     "url": "https://pi-dogs-ocx3.onrender.com/dogs",
     "icon": "https://icons.duckduckgo.com/ip3/pi-dogs-ocx3.onrender.com.ico",
     "slug": "get-to-dogs-server",
-    "status": "up",
-    "uptime": "95.48%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "95.48%",
-    "uptimeMonth": "95.48%",
-    "uptimeYear": "95.48%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 254,
     "timeDay": 254,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-09-14": 7
+      "2024-09-14": 0
     }
   },
   {
