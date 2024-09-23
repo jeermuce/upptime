@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 # .github/workflows/graphs.yml needs a space in line 26
 
 sites:
+  - name: csr-leptos
+    url: https://csr-leptos.vercel.app/
   - name: gallery
     url: https://gallery-khaki-eight.vercel.app/
   - name: GET to csyc server
