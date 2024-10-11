@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 # .github/workflows/graphs.yml needs a space in line 26
 
 sites:
-  - name: raccoon 2: electric boogaloo
+  - name: raccoon 2  electric boogaloo
     url: https://raccoon-2-electric-boogaloo.vercel.app/
   - name: csr-leptos
     url: https://csr-leptos.vercel.app/
@@ -21,9 +21,7 @@ sites:
     method: GET
   - name: dogs client
     url: https://dogs-taupe-iota.vercel.app/
-  - name: whoogle
-    url: https://whoogle-search-z4hp.onrender.com/search?preferences=uG2cBIMT_mNsEk0ToeKLViUvd3Yuf0dOk2oJUC1TRqp2_-202-8BTHttUz8SBa882SNe6nebVX2CZ-WegO_gi9QmPf9kfdhRZvkH6tf3Z8TcKMaiqJ8KRTyPOicAQLjlX0kD2aigUmYQaxGu4MoDHWEIsDe0FFplIt4BlX_lczY4rPRbCpgyKsMoUc1qwkkC6RPHzDIeRK6yO0sxsKOm9X6FRSbmi0oIDS7FEoWjbzjJyiR4RHvZKGIXSDhG_bpKUmeTs0ibODX2NudaeATW5vtpM4pjvrIov&q=gAAAAABnCN7RFybaqxtahi2QPeqtv7o7DjmpI18DUiUUNXM2u-VWax8e1zyOS8HXFb35IXHk7H5_3mQrcazAACHHUX4xfiUnIw%3D%3D
-
+    
 status-website:
   baseUrl: /upptime
   name: Jeermuce Status
