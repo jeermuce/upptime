@@ -4,28 +4,30 @@
     "url": "https://raccoon-2-electric-boogaloo.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/raccoon-2-electric-boogaloo.vercel.app.ico",
     "slug": "raccoon-2-electric-boogaloo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2380,
     "timeDay": 2666,
     "timeWeek": 2211,
     "timeMonth": 2380,
     "timeYear": 2380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 2
+    }
   },
   {
     "name": "csr-leptos",
     "url": "https://csr-leptos.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/csr-leptos.vercel.app.ico",
     "slug": "csr-leptos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
@@ -33,17 +35,19 @@
     "timeWeek": 131,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "gallery",
     "url": "https://gallery-khaki-eight.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/gallery-khaki-eight.vercel.app.ico",
     "slug": "gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1183,
@@ -51,7 +55,9 @@
     "timeWeek": 1352,
     "timeMonth": 1251,
     "timeYear": 1183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "GET to csyc server",
@@ -59,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/csyc.onrender.com.ico",
     "slug": "get-to-csyc-server",
     "status": "down",
-    "uptime": "87.69%",
+    "uptime": "87.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.95%",
-    "uptimeMonth": "85.61%",
-    "uptimeYear": "87.69%",
+    "uptimeWeek": "77.11%",
+    "uptimeMonth": "85.19%",
+    "uptimeYear": "87.40%",
     "time": 2884,
     "timeDay": 341,
     "timeWeek": 2001,
     "timeMonth": 2933,
     "timeYear": 2884,
     "dailyMinutesDown": {
-      "2024-10-22": 74,
+      "2024-10-22": 258,
       "2024-10-21": 1440,
       "2024-10-20": 351,
       "2024-10-19": 19,
@@ -112,10 +118,10 @@
     "url": "https://front-end-18oj-6dwvt7mg2-csyc.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/front-end-18oj-6dwvt7mg2-csyc.vercel.app.ico",
     "slug": "csyc-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
@@ -123,7 +129,9 @@
     "timeWeek": 105,
     "timeMonth": 107,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "GET to dogs server",
@@ -131,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pi-dogs-ocx3.onrender.com.ico",
     "slug": "get-to-dogs-server",
     "status": "down",
-    "uptime": "90.09%",
+    "uptime": "89.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.23%",
-    "uptimeMonth": "88.60%",
-    "uptimeYear": "90.09%",
+    "uptimeWeek": "77.39%",
+    "uptimeMonth": "88.18%",
+    "uptimeYear": "89.78%",
     "time": 4080,
     "timeDay": 348,
     "timeWeek": 3356,
-    "timeMonth": 4079,
+    "timeMonth": 4106,
     "timeYear": 4080,
     "dailyMinutesDown": {
-      "2024-10-22": 74,
+      "2024-10-22": 258,
       "2024-10-21": 1440,
       "2024-10-20": 346,
       "2024-10-19": 47,
@@ -182,9 +190,9 @@
     "url": "https://dogs-taupe-iota.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/dogs-taupe-iota.vercel.app.ico",
     "slug": "dogs-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -193,6 +201,8 @@
     "timeWeek": 114,
     "timeMonth": 142,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
